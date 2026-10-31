@@ -1,5 +1,6 @@
 # --- Core Deep Learning & ML ---
 tensorflow==2.18.0
+keras-tuner>=1.4.0
 numpy==1.26.4               
 pandas==2.2.2
 scikit-learn==1.5.0
@@ -15,7 +16,7 @@ seaborn==0.13.2
 
 # --- Medical Signal Processing ---
 wfdb==4.1.2
-biosppy==0.12.1
+biosppy==2.2.4
 heartpy==1.2.7
 
 # --- Development ---
